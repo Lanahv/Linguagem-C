@@ -1,8 +1,26 @@
 body{
-    background-color: ;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
 }
 
 
+.lista{
+    border: 1px solid black;
+    margin-right: auto;
+    margin-left: auto;
+    width: 310px;
+}
+
+.titulotab{
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
 
 
 
